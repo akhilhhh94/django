@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+{%  if name == "Akhil" %}
+<h1>Hiiiiiiiiiii {{ name}}</h1>
+{%  else %}
+<h1>Hiiiiiiiiiii bls sssssssssss</h1>
+{%  endif %}
+<form method="post" action="/me/adding/">
+    {% csrf_token %}
+    <input type="number" name="num1"><hr/>
+    <input type="number" name="num2">
+    <input type="submit" name="submit">
+
+</form>
+{% if sum %}
+{{sum}}
+{% endif %}
+{% endblock %}
