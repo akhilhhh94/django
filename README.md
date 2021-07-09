@@ -17,3 +17,15 @@ pipenv install
 pipenv shell
 python manage.py runserver #run the server
 ```
+
+####Create migrations:
+```
+pipenv shell
+python manage.py makemigrations
+```
+
+####Create a new BR user:
+```
+pipenv shell
+python manage.py createsuperuser
+```
