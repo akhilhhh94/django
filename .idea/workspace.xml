@@ -15,6 +15,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1399277c-899f-499d-b0de-bb03c2112522" />
+        <option name="url" value="git@github.com:akhilhhh94/django.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="1v2nKY0IFkQUrJnT3TwTUyDHwrV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,9 +37,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aea9ef83-7442-49cd-b365-d6a484c5ae32" name="Default Changelist" comment="" />
@@ -41,6 +53,9 @@
       <updated>1625768988609</updated>
       <workItem from="1625768989904" duration="1024000" />
       <workItem from="1625800300266" duration="98000" />
+      <workItem from="1627474139097" duration="1705000" />
+      <workItem from="1627497267389" duration="69000" />
+      <workItem from="1627498028298" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="first comit">
       <created>1625769422479</created>
